@@ -2,7 +2,6 @@ import { TProduct } from "@/types/productType";
 import Image from "next/image";
 import CounterInput from "./counterInput";
 import { memo } from "react";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import Trash from "../../assets/icons/trash.svg";
 import Heart from "../../assets/icons/heart.svg";
 
